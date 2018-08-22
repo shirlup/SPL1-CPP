@@ -3,7 +3,6 @@
 ## Description
 
 Implemention in C++ of an OOP system 'Reviiyot'.
-Different players have different strategies.
 
 ## Classes
 
